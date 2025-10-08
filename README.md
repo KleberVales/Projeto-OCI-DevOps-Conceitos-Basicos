@@ -26,3 +26,8 @@
 ## Configurações de Pull Request
 
 --- 
+
+## Categorias de Insights
+
+
+
