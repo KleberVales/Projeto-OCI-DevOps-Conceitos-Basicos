@@ -20,3 +20,4 @@
 
 ## Forking: Modificações Seguras e Isoladas
 ## Processo de Fork e Clone
+## Sincronização com o Repositório Pai
