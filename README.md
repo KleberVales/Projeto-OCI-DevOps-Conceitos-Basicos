@@ -9,3 +9,7 @@
 ## Code Repositories
 ## Funcionalidades dos Repositórios
 ## Espelhamento de Repositórios Externos
+
+---
+
+## Objetivo da Validação
