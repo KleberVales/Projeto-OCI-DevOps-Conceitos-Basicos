@@ -15,3 +15,7 @@
 ## Objetivo da Validação
 ## Como Validar uma Conexão Externa
 ## Benefícios da Validação
+
+--- 
+
+## Forking: Modificações Seguras e Isoladas
