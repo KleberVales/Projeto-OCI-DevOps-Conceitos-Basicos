@@ -30,6 +30,7 @@
 ## Categorias de Insights
 ## O que são Artifacts?
 ## Tipos de Registries na OCI
+## Conceitos-Chave do Artifact Registry
 
 
 
