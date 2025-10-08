@@ -14,3 +14,4 @@
 
 ## Objetivo da Validação
 ## Como Validar uma Conexão Externa
+## Benefícios da Validação
