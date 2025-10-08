@@ -8,3 +8,4 @@
 ## Etapas para Criar um Projeto DevOps
 ## Code Repositories
 ## Funcionalidades dos Repositórios
+## Espelhamento de Repositórios Externos
