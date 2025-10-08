@@ -21,3 +21,4 @@
 ## Forking: Modificações Seguras e Isoladas
 ## Processo de Fork e Clone
 ## Sincronização com o Repositório Pai
+## Pull Requests: Revisão e Integração de Código
